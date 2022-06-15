@@ -1,4 +1,4 @@
-# sudoko
+# TIC TAC TOE
 this file is my srm semester 2 project
 follow the steps to run the code:
   1). open file "tictactoe srm project".
